@@ -1,6 +1,6 @@
 - Hi, I’m @choibits!
 - I'm a marketer of 8+ years working to become a SWE
-- Self studying python since March 2024
+- Self studying since March 2024
 - I love building new projects and thinking of ways to improve what's existing
 
 <!---
